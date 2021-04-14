@@ -1,0 +1,5 @@
+Fifteen schools with a total of 39170 students were evaluated. Couple conclusions are as the following:
+•	The percentage of students that pass on is reading is greater than the percentage of students that pass on math. 
+•	The % of overall passing increases with the decrease of the spending range per student.
+•	Medium school size has the best percentage of overall passing, although small size schools have the highest scores on both math and reading
+•	Charter schools are better than district school in all aspects: higher scores and higher rate of students passing.
